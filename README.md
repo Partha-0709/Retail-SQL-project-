@@ -1,2 +1,2 @@
-# Retail-SQL-project-
+# Retail-SQL-project
 Retail 
